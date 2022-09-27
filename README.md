@@ -12,4 +12,5 @@ Akshat Mengi. This repo is a clone of https://github.com/miguelgrinberg/flasky.
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/105562175/192475184-d79535bc-8b29-459f-b188-20de2e10fd61.png">
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/105562175/192474900-33a09b9b-05ce-4979-a44c-37c2b8b08a9a.png">
 
-
+## Activity 4
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/105562175/192608522-93f2e09e-c91e-4497-aecd-f2577ac1d720.png">
